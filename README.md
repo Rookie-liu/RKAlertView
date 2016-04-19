@@ -17,3 +17,10 @@ RKAlertView *va = [RKAlertView alertViewWithTitle:@"提示信息" message:@"我�
     [va show];
 
 ```
+##iPhone6P
+<img src="http://7xisto.com1.z0.glb.clouddn.com/4D2468E3-5390-44E8-B5D6-9D2D3485704F.png" />
+
+
+##iPhone5
+
+<img src="http://7xisto.com1.z0.glb.clouddn.com/84D81F59-FA2B-4007-A532-5CBDBEF3A307.png" />
